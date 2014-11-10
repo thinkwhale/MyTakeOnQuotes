@@ -1,0 +1,255 @@
+<Events><Event><System><Provider Name="ASP.NET 4.0.30319.0"/><EventID>1309</EventID><Level>2</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-03T19:53:11Z"/><EventRecordID>227072156</EventRecordID><Channel>Application</Channel><Computer>RD00155DC28579</Computer><Security/></System><EventData><Data>3005</Data><Data>An unhandled exception has occurred.</Data><Data>11/3/2014 7:53:11 PM</Data><Data>11/3/2014 7:53:11 PM</Data><Data>9c93c135a22942c38f8d7fea5ca960e9</Data><Data>2</Data><Data>1</Data><Data>0</Data><Data>/LM/W3SVC/1700023166/ROOT-3-130595173738820491</Data><Data>Full</Data><Data>/</Data><Data>D:\home\site\wwwroot\</Data><Data>RD00155DC28579</Data><Data></Data><Data>13828</Data><Data>w3wp.exe</Data><Data>IIS APPPOOL\mytakeonquotes</Data><Data>HttpException</Data><Data>A potentially dangerous Request.Path value was detected from the client (:).
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+</Data><Data>https://www.mytakeonquotes.com:443/ghost/api/v0.1/slugs/post/Success Vs Value : Einstein/</Data><Data>/ghost/api/v0.1/slugs/post/Success Vs Value : Einstein/</Data><Data>198.207.26.2</Data><Data></Data><Data>False</Data><Data></Data><Data>IIS APPPOOL\mytakeonquotes</Data><Data>28</Data><Data>IIS APPPOOL\mytakeonquotes</Data><Data>False</Data><Data>   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+</Data></EventData></Event><Event><System><Provider Name="ASP.NET 4.0.30319.0"/><EventID>1301</EventID><Level>3</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-03T19:53:11Z"/><EventRecordID>227072171</EventRecordID><Channel>Application</Channel><Computer>RD00155DC28579</Computer><Security/></System><EventData><Data>EventLogProvider</Data><Data>/</Data><Data>System.Web.HttpException (0x80004005): The EventLogWebEventProvider provider failed to log an event with the error code 0xC00CE558.
+   at System.Web.Management.EventLogWebEventProvider.ProcessEvent(WebBaseEvent eventRaised)
+   at System.Web.Management.WebBaseEvent.RaiseInternal(WebBaseEvent eventRaised, ArrayList firingRuleInfos, Int32 index0, Int32 index1)</Data></EventData></Event><Event><System><Provider Name="ASP.NET 4.0.30319.0"/><EventID>1309</EventID><Level>2</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-04T14:49:48Z"/><EventRecordID>295270093</EventRecordID><Channel>Application</Channel><Computer>RD00155DC28579</Computer><Security/></System><EventData><Data>3005</Data><Data>An unhandled exception has occurred.</Data><Data>11/4/2014 2:49:48 PM</Data><Data>11/4/2014 2:49:48 PM</Data><Data>87108576816443d28e63ce97d395c877</Data><Data>2</Data><Data>1</Data><Data>0</Data><Data>/LM/W3SVC/1700023166/ROOT-1-130595775426427983</Data><Data>Full</Data><Data>/</Data><Data>D:\home\site\wwwroot\</Data><Data>RD00155DC28579</Data><Data></Data><Data>9932</Data><Data>w3wp.exe</Data><Data>IIS APPPOOL\mytakeonquotes</Data><Data>HttpException</Data><Data>A potentially dangerous Request.Path value was detected from the client (:).
+   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+
+</Data><Data>https://mytakeonquotes.azurewebsites.net:443/ghost/api/v0.1/slugs/post/Right Time : George Eliot/</Data><Data>/ghost/api/v0.1/slugs/post/Right Time : George Eliot/</Data><Data>198.207.26.2</Data><Data></Data><Data>False</Data><Data></Data><Data>IIS APPPOOL\mytakeonquotes</Data><Data>66</Data><Data>IIS APPPOOL\mytakeonquotes</Data><Data>False</Data><Data>   at System.Web.HttpRequest.ValidateInputIfRequiredByConfig()
+   at System.Web.HttpApplication.PipelineStepManager.ValidateHelper(HttpContext context)
+</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:19:06Z"/><EventRecordID>355171656</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Alias</Data><Data>Started</Data><Data>	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=912b2e4d-c1bf-40ef-8653-087747fd26e9
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:19:07Z"/><EventRecordID>355171671</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Environment</Data><Data>Started</Data><Data>	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=912b2e4d-c1bf-40ef-8653-087747fd26e9
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:19:07Z"/><EventRecordID>355171703</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>FileSystem</Data><Data>Started</Data><Data>	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=912b2e4d-c1bf-40ef-8653-087747fd26e9
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:19:07Z"/><EventRecordID>355171718</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Function</Data><Data>Started</Data><Data>	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=912b2e4d-c1bf-40ef-8653-087747fd26e9
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:19:07Z"/><EventRecordID>355171734</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Registry</Data><Data>Started</Data><Data>	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=912b2e4d-c1bf-40ef-8653-087747fd26e9
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:19:07Z"/><EventRecordID>355171750</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Variable</Data><Data>Started</Data><Data>	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=11
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=912b2e4d-c1bf-40ef-8653-087747fd26e9
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>400</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:19:07Z"/><EventRecordID>355172078</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Available</Data><Data>None</Data><Data>	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=13
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=912b2e4d-c1bf-40ef-8653-087747fd26e9
+	EngineVersion=3.0
+	RunspaceId=89e305d7-f917-4c64-b62d-e112eefabe7b
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>403</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:21:29Z"/><EventRecordID>355314234</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Stopped</Data><Data>Available</Data><Data>	NewEngineState=Stopped
+	PreviousEngineState=Available
+
+	SequenceNumber=15
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=912b2e4d-c1bf-40ef-8653-087747fd26e9
+	EngineVersion=3.0
+	RunspaceId=89e305d7-f917-4c64-b62d-e112eefabe7b
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:21:39Z"/><EventRecordID>355324109</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Alias</Data><Data>Started</Data><Data>	ProviderName=Alias
+	NewProviderState=Started
+
+	SequenceNumber=1
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=2ff7811c-c1da-4686-ad0c-ce3fb29e2adf
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:21:39Z"/><EventRecordID>355324140</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Environment</Data><Data>Started</Data><Data>	ProviderName=Environment
+	NewProviderState=Started
+
+	SequenceNumber=3
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=2ff7811c-c1da-4686-ad0c-ce3fb29e2adf
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:21:39Z"/><EventRecordID>355324156</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>FileSystem</Data><Data>Started</Data><Data>	ProviderName=FileSystem
+	NewProviderState=Started
+
+	SequenceNumber=5
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=2ff7811c-c1da-4686-ad0c-ce3fb29e2adf
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:21:39Z"/><EventRecordID>355324171</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Function</Data><Data>Started</Data><Data>	ProviderName=Function
+	NewProviderState=Started
+
+	SequenceNumber=7
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=2ff7811c-c1da-4686-ad0c-ce3fb29e2adf
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:21:39Z"/><EventRecordID>355324187</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Registry</Data><Data>Started</Data><Data>	ProviderName=Registry
+	NewProviderState=Started
+
+	SequenceNumber=9
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=2ff7811c-c1da-4686-ad0c-ce3fb29e2adf
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>600</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:21:39Z"/><EventRecordID>355324218</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Variable</Data><Data>Started</Data><Data>	ProviderName=Variable
+	NewProviderState=Started
+
+	SequenceNumber=11
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=2ff7811c-c1da-4686-ad0c-ce3fb29e2adf
+	EngineVersion=
+	RunspaceId=
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>400</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:21:39Z"/><EventRecordID>355324406</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Available</Data><Data>None</Data><Data>	NewEngineState=Available
+	PreviousEngineState=None
+
+	SequenceNumber=13
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=2ff7811c-c1da-4686-ad0c-ce3fb29e2adf
+	EngineVersion=3.0
+	RunspaceId=4603ff31-40cc-4833-8fc3-cd9dd804f73e
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event><Event><System><Provider Name="PowerShell"/><EventID>403</EventID><Level>0</Level><Task>0</Task><Keywords>Keywords</Keywords><TimeCreated SystemTime="2014-11-05T05:23:15Z"/><EventRecordID>355419875</EventRecordID><Channel>Application</Channel><Computer>RD00155DC27A32</Computer><Security/></System><EventData><Data>Stopped</Data><Data>Available</Data><Data>	NewEngineState=Stopped
+	PreviousEngineState=Available
+
+	SequenceNumber=15
+
+	HostName=ConsoleHost
+	HostVersion=3.0
+	HostId=2ff7811c-c1da-4686-ad0c-ce3fb29e2adf
+	EngineVersion=3.0
+	RunspaceId=4603ff31-40cc-4833-8fc3-cd9dd804f73e
+	PipelineId=
+	CommandName=
+	CommandType=
+	ScriptName=
+	CommandPath=
+	CommandLine=</Data></EventData></Event></Events>

@@ -1,0 +1,26 @@
+[31m
+ERROR:[39m [31mPlease select a valid image.[39m 
+ 
+ Error
+    at Error.UnsupportedMediaTypeError (D:\home\site\wwwroot\core\server\errors\unsupported-media-type-error.js:6:18)
+    at D:\home\site\wwwroot\core\server\api\upload.js:47:39
+    at tryCatch1 (D:\home\site\wwwroot\node_modules\bluebird\js\main\util.js:43:21)
+    at Promise$_callHandler [as _callHandler] (D:\home\site\wwwroot\node_modules\bluebird\js\main\promise.js:649:13)
+    at Promise$_settlePromiseFromHandler [as _settlePromiseFromHandler] (D:\home\site\wwwroot\node_modules\bluebird\js\main\promise.js:663:18)
+    at Promise$_settlePromiseAt [as _settlePromiseAt] (D:\home\site\wwwroot\node_modules\bluebird\js\main\promise.js:826:14)
+    at Async$_consumeFunctionBuffer [as _consumeFunctionBuffer] (D:\home\site\wwwroot\node_modules\bluebird\js\main\async.js:75:12)
+    at Async$consumeFunctionBuffer (D:\home\site\wwwroot\node_modules\bluebird\js\main\async.js:38:14)
+    at process._tickDomainCallback (node.js:463:13) 
+[31m
+ERROR:[39m [31mPlease select a valid image.[39m 
+ 
+ Error
+    at Error.UnsupportedMediaTypeError (D:\home\site\wwwroot\core\server\errors\unsupported-media-type-error.js:6:18)
+    at D:\home\site\wwwroot\core\server\api\upload.js:47:39
+    at tryCatch1 (D:\home\site\wwwroot\node_modules\bluebird\js\main\util.js:43:21)
+    at Promise$_callHandler [as _callHandler] (D:\home\site\wwwroot\node_modules\bluebird\js\main\promise.js:649:13)
+    at Promise$_settlePromiseFromHandler [as _settlePromiseFromHandler] (D:\home\site\wwwroot\node_modules\bluebird\js\main\promise.js:663:18)
+    at Promise$_settlePromiseAt [as _settlePromiseAt] (D:\home\site\wwwroot\node_modules\bluebird\js\main\promise.js:826:14)
+    at Async$_consumeFunctionBuffer [as _consumeFunctionBuffer] (D:\home\site\wwwroot\node_modules\bluebird\js\main\async.js:75:12)
+    at Async$consumeFunctionBuffer (D:\home\site\wwwroot\node_modules\bluebird\js\main\async.js:38:14)
+    at process._tickDomainCallback (node.js:463:13) 

@@ -1,0 +1,5 @@
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://mytakeonquotes.azurewebsites.net [90m
+Ctrl+C to shut down[39m
+27.150.202.229:55256 - - [Tue, 04 Nov 2014 22:14:42 GMT] "GET /logic-vs-imagination/ HTTP/1.1" 200 - "-" "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)"

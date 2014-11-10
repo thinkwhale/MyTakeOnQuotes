@@ -1,0 +1,10 @@
+[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
+[32mGhost is running...[39m 
+Your blog is now available on http://mytakeonquotes.azurewebsites.net [90m
+Ctrl+C to shut down[39m
+198.207.26.2:55948 - - [Mon, 03 Nov 2014 19:40:01 GMT] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+198.207.26.2:55948 - - [Mon, 03 Nov 2014 19:40:01 GMT] "GET /assets/css/screen.css?v=33d6b666ca HTTP/1.1" 200 - "https://mytakeonquotes.azurewebsites.net/" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+198.207.26.2:55955 - - [Mon, 03 Nov 2014 19:40:01 GMT] "GET /assets/js/jquery.fitvids.js?v=33d6b666ca HTTP/1.1" 200 - "https://mytakeonquotes.azurewebsites.net/" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+198.207.26.2:55953 - - [Mon, 03 Nov 2014 19:40:01 GMT] "GET /public/jquery.min.js?v=33d6b666ca HTTP/1.1" 200 - "https://mytakeonquotes.azurewebsites.net/" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+198.207.26.2:55956 - - [Mon, 03 Nov 2014 19:40:01 GMT] "GET /assets/js/index.js?v=33d6b666ca HTTP/1.1" 200 - "https://mytakeonquotes.azurewebsites.net/" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"
+198.207.26.2:55953 - - [Mon, 03 Nov 2014 19:40:01 GMT] "GET /assets/fonts/casper-icons.eot? HTTP/1.1" 304 - "https://mytakeonquotes.azurewebsites.net/" "Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko"

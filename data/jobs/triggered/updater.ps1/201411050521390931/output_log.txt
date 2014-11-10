@@ -1,0 +1,349 @@
+[11/05/2014 05:21:39 > 44e5e3: SYS INFO] Status changed to Initializing
+[11/05/2014 05:21:39 > 44e5e3: SYS INFO] Run script 'updater.ps1' with script host - 'PowerShellScriptHost'
+[11/05/2014 05:21:39 > 44e5e3: SYS INFO] Status changed to Running
+[11/05/2014 05:21:39 > 44e5e3: INFO] Unzipping Ghost to /site/temp/latest
+[11/05/2014 05:21:40 > 44e5e3: INFO] Archive:  ghost.zip
+[11/05/2014 05:21:40 > 44e5e3: INFO]   inflating: ./latest/Gruntfile.js   
+[11/05/2014 05:21:40 > 44e5e3: INFO]   inflating: ./latest/LICENSE        
+[11/05/2014 05:21:40 > 44e5e3: INFO]   inflating: ./latest/PRIVACY.md     
+[11/05/2014 05:21:40 > 44e5e3: INFO]   inflating: ./latest/README.md      
+[11/05/2014 05:21:40 > 44e5e3: INFO]   inflating: ./latest/bower.json     
+[11/05/2014 05:21:40 > 44e5e3: INFO]   inflating: ./latest/config.example.js  
+[11/05/2014 05:21:40 > 44e5e3: INFO]    creating: ./latest/content/     
+[11/05/2014 05:21:40 > 44e5e3: INFO]    creating: ./latest/content/apps/
+[11/05/2014 05:21:40 > 44e5e3: INFO]   inflating: ./latest/content/apps/README.md  
+[11/05/2014 05:21:40 > 44e5e3: INFO]    creating: ./latest/content/data/
+[11/05/2014 05:21:40 > 44e5e3: INFO]   inflating: ./latest/content/data/README.md  
+[11/05/2014 05:21:40 > 44e5e3: INFO]    creating: ./latest/content/images/
+[11/05/2014 05:21:40 > 44e5e3: INFO]   inflating: ./latest/content/images/README.md  
+[11/05/2014 05:21:40 > 44e5e3: INFO]    creating: ./latest/content/themes/
+[11/05/2014 05:21:41 > 44e5e3: INFO]    creating: ./latest/content/themes/casper/
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/LICENSE  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/README.md  
+[11/05/2014 05:21:41 > 44e5e3: INFO]    creating: ./latest/content/themes/casper/assets/
+[11/05/2014 05:21:41 > 44e5e3: INFO]    creating: ./latest/content/themes/casper/assets/css/
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/assets/css/screen.css  
+[11/05/2014 05:21:41 > 44e5e3: INFO]    creating: ./latest/content/themes/casper/assets/fonts/
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/assets/fonts/casper-icons.eot  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/assets/fonts/casper-icons.svg  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/assets/fonts/casper-icons.ttf  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/assets/fonts/casper-icons.woff  
+[11/05/2014 05:21:41 > 44e5e3: INFO]    creating: ./latest/content/themes/casper/assets/js/
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/assets/js/index.js  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/assets/js/jquery.fitvids.js  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/author.hbs  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/default.hbs  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/index.hbs  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/package.json  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/page.hbs  
+[11/05/2014 05:21:41 > 44e5e3: INFO]    creating: ./latest/content/themes/casper/partials/
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/partials/loop.hbs  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/post.hbs  
+[11/05/2014 05:21:41 > 44e5e3: INFO]   inflating: ./latest/content/themes/casper/tag.hbs  
+[11/05/2014 05:21:41 > 44e5e3: INFO]    creating: ./latest/core/        
+[11/05/2014 05:21:41 > 44e5e3: INFO]    creating: ./latest/core/built/  
+[11/05/2014 05:21:42 > 44e5e3: INFO]    creating: ./latest/core/built/public/
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/built/public/jquery.js  
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/built/public/jquery.min.js  
+[11/05/2014 05:21:42 > 44e5e3: INFO]    creating: ./latest/core/built/scripts/
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/built/scripts/ghost-dev.js  
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/built/scripts/ghost.min.js  
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/built/scripts/templates-dev.js  
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/built/scripts/vendor-dev.js  
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/built/scripts/vendor.min.js  
+[11/05/2014 05:21:42 > 44e5e3: INFO]    creating: ./latest/core/client/ 
+[11/05/2014 05:21:42 > 44e5e3: INFO]    creating: ./latest/core/client/assets/
+[11/05/2014 05:21:42 > 44e5e3: INFO]    creating: ./latest/core/client/assets/css/
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/css/ghost.min.css  
+[11/05/2014 05:21:42 > 44e5e3: INFO]    creating: ./latest/core/client/assets/fonts/
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/fonts/icons.eot  
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/fonts/icons.svg  
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/fonts/icons.ttf  
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/fonts/icons.woff  
+[11/05/2014 05:21:42 > 44e5e3: INFO]    creating: ./latest/core/client/assets/img/
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/404-ghost.png  
+[11/05/2014 05:21:42 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/404-ghost@2x.png  
+[11/05/2014 05:21:43 > 44e5e3: INFO]    creating: ./latest/core/client/assets/img/contributors/
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/ErisDS  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/JohnONolan  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/PaulAdamDavis  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/SiR-DanieL  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/cobbspur  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/felixrieseberg  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/halfdan  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/hswolff  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/jaswilli  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/javorszky  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/jgable  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/jillesme  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/manuelmitasch  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/mattiascibien  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/morficus  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/novaugust  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/rwjblue  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/sebgie  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/shindakun  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/contributors/wjake  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/large.png  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/loadingcat.gif  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/medium.png  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/small.png  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/touch-icon-ipad.png  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/img/touch-icon-iphone.png  
+[11/05/2014 05:21:43 > 44e5e3: INFO]    creating: ./latest/core/client/assets/lib/
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/lib/touch-editor.js  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/client/assets/lib/uploader.js  
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/index.js  
+[11/05/2014 05:21:43 > 44e5e3: INFO]    creating: ./latest/core/server/ 
+[11/05/2014 05:21:43 > 44e5e3: INFO]    creating: ./latest/core/server/api/
+[11/05/2014 05:21:43 > 44e5e3: INFO]   inflating: ./latest/core/server/api/authentication.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/configuration.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/db.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/index.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/mail.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/notifications.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/posts.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/roles.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/settings.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/slugs.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/tags.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/themes.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/upload.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/users.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/api/utils.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]    creating: ./latest/core/server/apps/
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/apps/dependencies.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/apps/index.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/apps/loader.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/apps/permissions.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/apps/proxy.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/apps/sandbox.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]    creating: ./latest/core/server/config/
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/config/index.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/config/url.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]    creating: ./latest/core/server/controllers/
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/controllers/admin.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/controllers/frontend.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]    creating: ./latest/core/server/data/
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/data/default-settings.json  
+[11/05/2014 05:21:44 > 44e5e3: INFO]    creating: ./latest/core/server/data/export/
+[11/05/2014 05:21:44 > 44e5e3: INFO]   inflating: ./latest/core/server/data/export/index.js  
+[11/05/2014 05:21:44 > 44e5e3: INFO]    creating: ./latest/core/server/data/fixtures/
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/fixtures/fixtures.json  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/fixtures/index.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]    creating: ./latest/core/server/data/fixtures/permissions/
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/fixtures/permissions/index.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/fixtures/permissions/permissions.json  
+[11/05/2014 05:21:45 > 44e5e3: INFO]    creating: ./latest/core/server/data/import/
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/import/000.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/import/001.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/import/002.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/import/003.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/import/index.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/import/utils.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]    creating: ./latest/core/server/data/migration/
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/migration/commands.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/migration/index.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/schema.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]    creating: ./latest/core/server/data/utils/
+[11/05/2014 05:21:45 > 44e5e3: INFO]    creating: ./latest/core/server/data/utils/clients/
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/utils/clients/index.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/utils/clients/mysql.js  
+[11/05/2014 05:21:45 > 44e5e3: INFO]   inflating: ./latest/core/server/data/utils/clients/pg.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/data/utils/clients/sqlite3.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/data/utils/index.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]    creating: ./latest/core/server/data/validation/
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/data/validation/index.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]    creating: ./latest/core/server/data/versioning/
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/data/versioning/index.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]    creating: ./latest/core/server/email-templates/
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/email-templates/invite-user.html  
+[11/05/2014 05:21:46 > 44e5e3: INFO]    creating: ./latest/core/server/email-templates/raw/
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/email-templates/raw/invite-user.html  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/email-templates/raw/reset-password.html  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/email-templates/raw/test.html  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/email-templates/raw/welcome.html  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/email-templates/reset-password.html  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/email-templates/test.html  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/email-templates/welcome.html  
+[11/05/2014 05:21:46 > 44e5e3: INFO]    creating: ./latest/core/server/errors/
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/bad-request-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/data-import-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/email-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/index.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/internal-server-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/no-permission-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/not-found-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/request-too-large-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/unauthorized-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/unsupported-media-type-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/errors/validation-error.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/filters.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]   inflating: ./latest/core/server/ghost-server.js  
+[11/05/2014 05:21:46 > 44e5e3: INFO]    creating: ./latest/core/server/helpers/
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/asset.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/author.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/body_class.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/content.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/date.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/encode.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/excerpt.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/foreach.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/ghost_foot.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/ghost_head.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/ghost_script_tags.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/has.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/index.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/is.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/meta_description.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/meta_title.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/page_url.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/pagination.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/plural.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/post_class.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/tags.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/template.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/title.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]    creating: ./latest/core/server/helpers/tpl/
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/tpl/nav.hbs  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/tpl/pagination.hbs  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/url.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/helpers/utils.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/index.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]   inflating: ./latest/core/server/mail.js  
+[11/05/2014 05:21:47 > 44e5e3: INFO]    creating: ./latest/core/server/middleware/
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/middleware/auth-strategies.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/middleware/ghost-busboy.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/middleware/index.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/middleware/middleware.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/middleware/oauth.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]    creating: ./latest/core/server/models/
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/accesstoken.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/app-field.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/app-setting.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/app.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/base.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/basetoken.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/client.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/index.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/permission.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/post.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/refreshtoken.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/role.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/settings.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/tag.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/models/user.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]    creating: ./latest/core/server/permissions/
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/permissions/effective.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/permissions/index.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/permissions/object-type-model-map.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/require-tree.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]    creating: ./latest/core/server/routes/
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/routes/admin.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/routes/api.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/routes/frontend.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/routes/index.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]    creating: ./latest/core/server/storage/
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/storage/base.js  
+[11/05/2014 05:21:48 > 44e5e3: INFO]   inflating: ./latest/core/server/storage/index.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/storage/local-file-store.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/update-check.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]    creating: ./latest/core/server/utils/
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/utils/downzero.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/utils/index.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/utils/pipeline.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/utils/sequence.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/utils/startup-check.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]    creating: ./latest/core/server/views/
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/views/default.hbs  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/views/error.hbs  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/views/user-error.hbs  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/server/xmlrpc.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]    creating: ./latest/core/shared/ 
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/shared/favicon.ico  
+[11/05/2014 05:21:49 > 44e5e3: INFO]    creating: ./latest/core/shared/img/
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/shared/img/user-cover.png  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/shared/img/user-image.png  
+[11/05/2014 05:21:49 > 44e5e3: INFO]    creating: ./latest/core/shared/lib/
+[11/05/2014 05:21:49 > 44e5e3: INFO]    creating: ./latest/core/shared/lib/showdown/
+[11/05/2014 05:21:49 > 44e5e3: INFO]    creating: ./latest/core/shared/lib/showdown/extensions/
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/shared/lib/showdown/extensions/ghostgfm.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/shared/lib/showdown/extensions/ghostimagepreview.js  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/core/shared/robots.txt  
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/index.js       
+[11/05/2014 05:21:49 > 44e5e3: INFO]   inflating: ./latest/package.json   
+[11/05/2014 05:21:49 > 44e5e3: INFO] Removing core
+[11/05/2014 05:21:53 > 44e5e3: INFO] Removing Caspter theme
+[11/05/2014 05:21:54 > 44e5e3: INFO] Removing index.js
+[11/05/2014 05:21:54 > 44e5e3: INFO] Removing package.json
+[11/05/2014 05:21:54 > 44e5e3: INFO] Moving core
+[11/05/2014 05:21:55 > 44e5e3: INFO] Moving Casper
+[11/05/2014 05:21:55 > 44e5e3: INFO] Moving index.js
+[11/05/2014 05:21:55 > 44e5e3: INFO] Moving package.json
+[11/05/2014 05:21:55 > 44e5e3: INFO] Creating required elements
+[11/05/2014 05:21:55 > 44e5e3: INFO] Running npm install (production)
+[11/05/2014 05:22:07 > 44e5e3: INFO] Installing SQLite3 x32 Module
+[11/05/2014 05:22:50 > 44e5e3: ERR ] npm WARN deprecated set-immediate@0.1.1: Use `setimmediate` instead
+[11/05/2014 05:22:51 > 44e5e3: INFO] 
+[11/05/2014 05:22:51 > 44e5e3: INFO] > sqlite3@2.2.7 install D:\home\site\wwwroot\node_modules\sqlite3
+[11/05/2014 05:22:51 > 44e5e3: INFO] > node-pre-gyp install --fallback-to-build
+[11/05/2014 05:22:51 > 44e5e3: INFO] 
+[11/05/2014 05:22:59 > 44e5e3: INFO] [sqlite3] Success: "D:\home\site\wwwroot\node_modules\sqlite3\lib\binding\node-v11-win32-ia32\node_sqlite3.node" is installed via remote
+[11/05/2014 05:23:03 > 44e5e3: INFO] sqlite3@2.2.7 node_modules\sqlite3
+[11/05/2014 05:23:03 > 44e5e3: INFO] ├── set-immediate@0.1.1
+[11/05/2014 05:23:03 > 44e5e3: INFO] └── nan@1.1.2
+[11/05/2014 05:23:06 > 44e5e3: INFO] Installing SQLite3 x64 Module
+[11/05/2014 05:23:06 > 44e5e3: ERR ] Move-Item : Access to the path 
+[11/05/2014 05:23:06 > 44e5e3: ERR ] 'D:\home\site\wwwroot\node_modules\sqlite3\lib\binding\node-v11-win32-ia32\' 
+[11/05/2014 05:23:06 > 44e5e3: ERR ] is denied.
+[11/05/2014 05:23:06 > 44e5e3: ERR ] At C:\DWASFiles\Sites\~1mytakeonquotes\Temp\jobs\triggered\updater.ps1\cevbgbse
+[11/05/2014 05:23:06 > 44e5e3: ERR ] .bcf\updater.ps1:45 char:1
+[11/05/2014 05:23:06 > 44e5e3: ERR ] + Move-Item ".\node_modules\sqlite3\lib\binding\node-v11-win32-ia32\" 
+[11/05/2014 05:23:06 > 44e5e3: ERR ] -Destination ...
+[11/05/2014 05:23:06 > 44e5e3: ERR ] + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[11/05/2014 05:23:06 > 44e5e3: ERR ] ~~~
+[11/05/2014 05:23:06 > 44e5e3: ERR ]     + CategoryInfo          : WriteError: (D:\home\site\ww...v11-win32-ia32\:D 
+[11/05/2014 05:23:06 > 44e5e3: ERR ]    irectoryInfo) [Move-Item], IOException
+[11/05/2014 05:23:06 > 44e5e3: ERR ]     + FullyQualifiedErrorId : MoveDirectoryItemIOError,Microsoft.PowerShell.Co 
+[11/05/2014 05:23:06 > 44e5e3: ERR ]    mmands.MoveItemCommand
+[11/05/2014 05:23:06 > 44e5e3: ERR ]  
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR! Error: EPERM, unlink 'D:\home\site\wwwroot\node_modules\sqlite3\lib\binding\node-v11-win32-ia32\node_sqlite3.node'
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR!  { [Error: EPERM, unlink 'D:\home\site\wwwroot\node_modules\sqlite3\lib\binding\node-v11-win32-ia32\node_sqlite3.node']
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR!   errno: 50,
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR!   code: 'EPERM',
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR!   path: 'D:\\home\\site\\wwwroot\\node_modules\\sqlite3\\lib\\binding\\node-v11-win32-ia32\\node_sqlite3.node' }
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR! 
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR! Please try running this command again as root/Administrator.
+[11/05/2014 05:23:08 > 44e5e3: ERR ] 
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR! System Windows_NT 6.2.9200
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR! command "node" "D:\\Program Files (x86)\\npm\\1.4.28\\node_modules\\npm\\bin\\npm-cli.js" "install" "sqlite3" "--target_arch=x64"
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR! cwd D:\home\site\wwwroot
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR! node -v v0.10.32
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR! npm -v 1.4.28
+[11/05/2014 05:23:08 > 44e5e3: ERR ] npm ERR! path D:\home\site\wwwroot\node_modules\sqlite3\lib\binding\node-v11-win32-ia32\node_sqlite3.node
+[11/05/2014 05:23:09 > 44e5e3: ERR ] npm ERR! code EPERM
+[11/05/2014 05:23:09 > 44e5e3: ERR ] npm ERR! errno 50
+[11/05/2014 05:23:10 > 44e5e3: ERR ] npm ERR! stack Error: EPERM, unlink 'D:\home\site\wwwroot\node_modules\sqlite3\lib\binding\node-v11-win32-ia32\node_sqlite3.node'
+[11/05/2014 05:23:13 > 44e5e3: ERR ] npm ERR! error rolling back Error: EPERM, unlink 'D:\home\site\wwwroot\node_modules\sqlite3\lib\binding\node-v11-win32-ia32\node_sqlite3.node'
+[11/05/2014 05:23:13 > 44e5e3: ERR ] npm ERR! error rolling back  { [Error: EPERM, unlink 'D:\home\site\wwwroot\node_modules\sqlite3\lib\binding\node-v11-win32-ia32\node_sqlite3.node']
+[11/05/2014 05:23:13 > 44e5e3: ERR ] npm ERR! error rolling back   errno: 50,
+[11/05/2014 05:23:13 > 44e5e3: ERR ] npm ERR! error rolling back   code: 'EPERM',
+[11/05/2014 05:23:13 > 44e5e3: ERR ] npm ERR! error rolling back   path: 'D:\\home\\site\\wwwroot\\node_modules\\sqlite3\\lib\\binding\\node-v11-win32-ia32\\node_sqlite3.node' }
+[11/05/2014 05:23:14 > 44e5e3: INFO] We're done, cleaning up!
+[11/05/2014 05:23:14 > 44e5e3: ERR ] Move-Item : Cannot find path 'D:\home\site\wwwroot\temp' because it does not 
+[11/05/2014 05:23:14 > 44e5e3: ERR ] exist.
+[11/05/2014 05:23:14 > 44e5e3: INFO] Removing temp Ghost folder
+[11/05/2014 05:23:14 > 44e5e3: ERR ] At C:\DWASFiles\Sites\~1mytakeonquotes\Temp\jobs\triggered\updater.ps1\cevbgbse
+[11/05/2014 05:23:14 > 44e5e3: ERR ] .bcf\updater.ps1:50 char:1
+[11/05/2014 05:23:14 > 44e5e3: ERR ] + Move-Item ".\temp" -Destination 
+[11/05/2014 05:23:14 > 44e5e3: ERR ] ".\node_modules\sqlite3\lib\binding\node-v11-win ...
+[11/05/2014 05:23:14 > 44e5e3: ERR ] + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[11/05/2014 05:23:14 > 44e5e3: ERR ] ~~~
+[11/05/2014 05:23:14 > 44e5e3: ERR ]     + CategoryInfo          : ObjectNotFound: (D:\home\site\wwwroot\temp:Strin 
+[11/05/2014 05:23:14 > 44e5e3: ERR ]    g) [Move-Item], ItemNotFoundException
+[11/05/2014 05:23:14 > 44e5e3: ERR ]     + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.MoveI 
+[11/05/2014 05:23:14 > 44e5e3: ERR ]    temCommand
+[11/05/2014 05:23:14 > 44e5e3: ERR ]  
+[11/05/2014 05:23:15 > 44e5e3: INFO] Removing temp Ghost zip
+[11/05/2014 05:23:15 > 44e5e3: INFO] All done
+[11/05/2014 05:23:15 > 44e5e3: SYS INFO] Status changed to Success
