@@ -1,6 +1,0 @@
-[36mMigrations[39m[36m:[39m [36mUp to date at version 003[39m
-[32mGhost is running...[39m 
-Your blog is now available on http://mytakeonquotes.azurewebsites.net [90m
-Ctrl+C to shut down[39m
-198.207.26.2:47925 - - [Tue, 04 Nov 2014 20:58:22 GMT] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"
-198.207.26.2:47923 - - [Tue, 04 Nov 2014 20:58:23 GMT] "GET / HTTP/1.1" 200 - "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.111 Safari/537.36"

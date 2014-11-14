@@ -1,6 +1,0 @@
-[11/05/2014 05:19:05 > 44e5e3: SYS INFO] Status changed to Initializing
-[11/05/2014 05:19:05 > 44e5e3: SYS INFO] Run script 'createBackup.ps1' with script host - 'PowerShellScriptHost'
-[11/05/2014 05:19:05 > 44e5e3: SYS INFO] Status changed to Running
-[11/05/2014 05:19:10 > 44e5e3: INFO] Creating Full Site Backup
-[11/05/2014 05:21:29 > 44e5e3: INFO] All done
-[11/05/2014 05:21:29 > 44e5e3: SYS INFO] Status changed to Success
