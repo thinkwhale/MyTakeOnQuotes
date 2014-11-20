@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="047c7239-bd4f-4074-9c44-323f772dafbd" name="Default" comment="From Webstrom">
+      <change type="DELETED" beforePath="D:\OneDrive\Works\VijayaMalla\MyTakeOnQuotes\config1.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\OneDrive\Works\VijayaMalla\MyTakeOnQuotes\core\client\assets\fonts\icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="D:\OneDrive\Works\VijayaMalla\MyTakeOnQuotes\core\client\assets\fonts\icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="D:\OneDrive\Works\VijayaMalla\MyTakeOnQuotes\core\client\assets\img\contributors\SiR-DanieL" afterPath="" />
+      <change type="DELETED" beforePath="D:\OneDrive\Works\VijayaMalla\MyTakeOnQuotes\core\client\assets\img\contributors\manuelmitasch" afterPath="" />
+      <change type="DELETED" beforePath="D:\OneDrive\Works\VijayaMalla\MyTakeOnQuotes\core\client\assets\img\contributors\shindakun" afterPath="" />
+      <change type="DELETED" beforePath="D:\OneDrive\Works\VijayaMalla\MyTakeOnQuotes\core\client\assets\img\contributors\wjake" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/import/000.js" afterPath="$PROJECT_DIR$/core/server/data/import/000.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/import/001.js" afterPath="$PROJECT_DIR$/core/server/data/import/001.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/import/002.js" afterPath="$PROJECT_DIR$/core/server/data/import/002.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/import/003.js" afterPath="$PROJECT_DIR$/core/server/data/import/003.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/LICENSE" afterPath="$PROJECT_DIR$/content/themes/casper/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PRIVACY.md" afterPath="$PROJECT_DIR$/PRIVACY.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/apps/README.md" afterPath="$PROJECT_DIR$/content/apps/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/data/README.md" afterPath="$PROJECT_DIR$/content/data/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/README.md" afterPath="$PROJECT_DIR$/content/images/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/README.md" afterPath="$PROJECT_DIR$/content/themes/casper/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/accesstoken.js" afterPath="$PROJECT_DIR$/core/server/models/accesstoken.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/controllers/admin.js" afterPath="$PROJECT_DIR$/core/server/controllers/admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/routes/admin.js" afterPath="$PROJECT_DIR$/core/server/routes/admin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/routes/api.js" afterPath="$PROJECT_DIR$/core/server/routes/api.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/app-field.js" afterPath="$PROJECT_DIR$/core/server/models/app-field.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/app-setting.js" afterPath="$PROJECT_DIR$/core/server/models/app-setting.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/app.js" afterPath="$PROJECT_DIR$/core/server/models/app.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/asset.js" afterPath="$PROJECT_DIR$/core/server/helpers/asset.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/middleware/auth-strategies.js" afterPath="$PROJECT_DIR$/core/server/middleware/auth-strategies.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/authentication.js" afterPath="$PROJECT_DIR$/core/server/api/authentication.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/author.hbs" afterPath="$PROJECT_DIR$/content/themes/casper/author.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/author.js" afterPath="$PROJECT_DIR$/core/server/helpers/author.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/bad-request-error.js" afterPath="$PROJECT_DIR$/core/server/errors/bad-request-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/base.js" afterPath="$PROJECT_DIR$/core/server/models/base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/storage/base.js" afterPath="$PROJECT_DIR$/core/server/storage/base.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/basetoken.js" afterPath="$PROJECT_DIR$/core/server/models/basetoken.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/body_class.js" afterPath="$PROJECT_DIR$/core/server/helpers/body_class.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/assets/fonts/casper-icons.svg" afterPath="$PROJECT_DIR$/content/themes/casper/assets/fonts/casper-icons.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/client.js" afterPath="$PROJECT_DIR$/core/server/models/client.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/migration/commands.js" afterPath="$PROJECT_DIR$/core/server/data/migration/commands.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.js" afterPath="$PROJECT_DIR$/config.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/configuration.js" afterPath="$PROJECT_DIR$/core/server/api/configuration.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/content.js" afterPath="$PROJECT_DIR$/core/server/helpers/content.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/data-import-error.js" afterPath="$PROJECT_DIR$/core/server/errors/data-import-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/date.js" afterPath="$PROJECT_DIR$/core/server/helpers/date.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/db.js" afterPath="$PROJECT_DIR$/core/server/api/db.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/default-settings.json" afterPath="$PROJECT_DIR$/core/server/data/default-settings.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/default.hbs" afterPath="$PROJECT_DIR$/content/themes/casper/default.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/views/default.hbs" afterPath="$PROJECT_DIR$/core/server/views/default.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/apps/dependencies.js" afterPath="$PROJECT_DIR$/core/server/apps/dependencies.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/utils/downzero.js" afterPath="$PROJECT_DIR$/core/server/utils/downzero.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/permissions/effective.js" afterPath="$PROJECT_DIR$/core/server/permissions/effective.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/email-error.js" afterPath="$PROJECT_DIR$/core/server/errors/email-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/encode.js" afterPath="$PROJECT_DIR$/core/server/helpers/encode.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/views/error.hbs" afterPath="$PROJECT_DIR$/core/server/views/error.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/excerpt.js" afterPath="$PROJECT_DIR$/core/server/helpers/excerpt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/filters.js" afterPath="$PROJECT_DIR$/core/server/filters.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/fixtures/fixtures.json" afterPath="$PROJECT_DIR$/core/server/data/fixtures/fixtures.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/foreach.js" afterPath="$PROJECT_DIR$/core/server/helpers/foreach.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/controllers/frontend.js" afterPath="$PROJECT_DIR$/core/server/controllers/frontend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/routes/frontend.js" afterPath="$PROJECT_DIR$/core/server/routes/frontend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/middleware/ghost-busboy.js" afterPath="$PROJECT_DIR$/core/server/middleware/ghost-busboy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/ghost-server.js" afterPath="$PROJECT_DIR$/core/server/ghost-server.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/ghost_foot.js" afterPath="$PROJECT_DIR$/core/server/helpers/ghost_foot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/ghost_head.js" afterPath="$PROJECT_DIR$/core/server/helpers/ghost_head.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/ghost_script_tags.js" afterPath="$PROJECT_DIR$/core/server/helpers/ghost_script_tags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/shared/lib/showdown/extensions/ghostgfm.js" afterPath="$PROJECT_DIR$/core/shared/lib/showdown/extensions/ghostgfm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/shared/lib/showdown/extensions/ghostimagepreview.js" afterPath="$PROJECT_DIR$/core/shared/lib/showdown/extensions/ghostimagepreview.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/has.js" afterPath="$PROJECT_DIR$/core/server/helpers/has.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/index.hbs" afterPath="$PROJECT_DIR$/content/themes/casper/index.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/assets/js/index.js" afterPath="$PROJECT_DIR$/content/themes/casper/assets/js/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/index.js" afterPath="$PROJECT_DIR$/core/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/index.js" afterPath="$PROJECT_DIR$/core/server/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/index.js" afterPath="$PROJECT_DIR$/core/server/api/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/apps/index.js" afterPath="$PROJECT_DIR$/core/server/apps/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/config/index.js" afterPath="$PROJECT_DIR$/core/server/config/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/export/index.js" afterPath="$PROJECT_DIR$/core/server/data/export/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/fixtures/index.js" afterPath="$PROJECT_DIR$/core/server/data/fixtures/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/fixtures/permissions/index.js" afterPath="$PROJECT_DIR$/core/server/data/fixtures/permissions/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/import/index.js" afterPath="$PROJECT_DIR$/core/server/data/import/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/migration/index.js" afterPath="$PROJECT_DIR$/core/server/data/migration/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/utils/index.js" afterPath="$PROJECT_DIR$/core/server/data/utils/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/utils/clients/index.js" afterPath="$PROJECT_DIR$/core/server/data/utils/clients/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/validation/index.js" afterPath="$PROJECT_DIR$/core/server/data/validation/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/versioning/index.js" afterPath="$PROJECT_DIR$/core/server/data/versioning/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/index.js" afterPath="$PROJECT_DIR$/core/server/errors/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/index.js" afterPath="$PROJECT_DIR$/core/server/helpers/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/middleware/index.js" afterPath="$PROJECT_DIR$/core/server/middleware/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/index.js" afterPath="$PROJECT_DIR$/core/server/models/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/permissions/index.js" afterPath="$PROJECT_DIR$/core/server/permissions/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/routes/index.js" afterPath="$PROJECT_DIR$/core/server/routes/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/storage/index.js" afterPath="$PROJECT_DIR$/core/server/storage/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/utils/index.js" afterPath="$PROJECT_DIR$/core/server/utils/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/internal-server-error.js" afterPath="$PROJECT_DIR$/core/server/errors/internal-server-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/email-templates/invite-user.html" afterPath="$PROJECT_DIR$/core/server/email-templates/invite-user.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/email-templates/raw/invite-user.html" afterPath="$PROJECT_DIR$/core/server/email-templates/raw/invite-user.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/is.js" afterPath="$PROJECT_DIR$/core/server/helpers/is.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/assets/js/jquery.fitvids.js" afterPath="$PROJECT_DIR$/content/themes/casper/assets/js/jquery.fitvids.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/apps/loader.js" afterPath="$PROJECT_DIR$/core/server/apps/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/storage/local-file-store.js" afterPath="$PROJECT_DIR$/core/server/storage/local-file-store.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/partials/loop.hbs" afterPath="$PROJECT_DIR$/content/themes/casper/partials/loop.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/mail.js" afterPath="$PROJECT_DIR$/core/server/mail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/mail.js" afterPath="$PROJECT_DIR$/core/server/api/mail.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/meta_description.js" afterPath="$PROJECT_DIR$/core/server/helpers/meta_description.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/meta_title.js" afterPath="$PROJECT_DIR$/core/server/helpers/meta_title.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/middleware/middleware.js" afterPath="$PROJECT_DIR$/core/server/middleware/middleware.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/utils/clients/mysql.js" afterPath="$PROJECT_DIR$/core/server/data/utils/clients/mysql.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/tpl/nav.hbs" afterPath="$PROJECT_DIR$/core/server/helpers/tpl/nav.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/no-permission-error.js" afterPath="$PROJECT_DIR$/core/server/errors/no-permission-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/not-found-error.js" afterPath="$PROJECT_DIR$/core/server/errors/not-found-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/notifications.js" afterPath="$PROJECT_DIR$/core/server/api/notifications.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/middleware/oauth.js" afterPath="$PROJECT_DIR$/core/server/middleware/oauth.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/permissions/object-type-model-map.js" afterPath="$PROJECT_DIR$/core/server/permissions/object-type-model-map.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/package.json" afterPath="$PROJECT_DIR$/content/themes/casper/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/page.hbs" afterPath="$PROJECT_DIR$/content/themes/casper/page.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/page_url.js" afterPath="$PROJECT_DIR$/core/server/helpers/page_url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/tpl/pagination.hbs" afterPath="$PROJECT_DIR$/core/server/helpers/tpl/pagination.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/pagination.js" afterPath="$PROJECT_DIR$/core/server/helpers/pagination.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/permission.js" afterPath="$PROJECT_DIR$/core/server/models/permission.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/apps/permissions.js" afterPath="$PROJECT_DIR$/core/server/apps/permissions.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/fixtures/permissions/permissions.json" afterPath="$PROJECT_DIR$/core/server/data/fixtures/permissions/permissions.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/utils/clients/pg.js" afterPath="$PROJECT_DIR$/core/server/data/utils/clients/pg.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/utils/pipeline.js" afterPath="$PROJECT_DIR$/core/server/utils/pipeline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/plural.js" afterPath="$PROJECT_DIR$/core/server/helpers/plural.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/post.hbs" afterPath="$PROJECT_DIR$/content/themes/casper/post.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/post.js" afterPath="$PROJECT_DIR$/core/server/models/post.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/post_class.js" afterPath="$PROJECT_DIR$/core/server/helpers/post_class.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/posts.js" afterPath="$PROJECT_DIR$/core/server/api/posts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/apps/proxy.js" afterPath="$PROJECT_DIR$/core/server/apps/proxy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/refreshtoken.js" afterPath="$PROJECT_DIR$/core/server/models/refreshtoken.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/request-too-large-error.js" afterPath="$PROJECT_DIR$/core/server/errors/request-too-large-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/require-tree.js" afterPath="$PROJECT_DIR$/core/server/require-tree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/email-templates/reset-password.html" afterPath="$PROJECT_DIR$/core/server/email-templates/reset-password.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/email-templates/raw/reset-password.html" afterPath="$PROJECT_DIR$/core/server/email-templates/raw/reset-password.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/shared/robots.txt" afterPath="$PROJECT_DIR$/core/shared/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/role.js" afterPath="$PROJECT_DIR$/core/server/models/role.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/roles.js" afterPath="$PROJECT_DIR$/core/server/api/roles.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/apps/sandbox.js" afterPath="$PROJECT_DIR$/core/server/apps/sandbox.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/schema.js" afterPath="$PROJECT_DIR$/core/server/data/schema.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/assets/css/screen.css" afterPath="$PROJECT_DIR$/content/themes/casper/assets/css/screen.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/utils/sequence.js" afterPath="$PROJECT_DIR$/core/server/utils/sequence.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/settings.js" afterPath="$PROJECT_DIR$/core/server/api/settings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/settings.js" afterPath="$PROJECT_DIR$/core/server/models/settings.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/slugs.js" afterPath="$PROJECT_DIR$/core/server/api/slugs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/utils/clients/sqlite3.js" afterPath="$PROJECT_DIR$/core/server/data/utils/clients/sqlite3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/utils/startup-check.js" afterPath="$PROJECT_DIR$/core/server/utils/startup-check.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/themes/casper/tag.hbs" afterPath="$PROJECT_DIR$/content/themes/casper/tag.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/tag.js" afterPath="$PROJECT_DIR$/core/server/models/tag.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/tags.js" afterPath="$PROJECT_DIR$/core/server/api/tags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/tags.js" afterPath="$PROJECT_DIR$/core/server/helpers/tags.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/template.js" afterPath="$PROJECT_DIR$/core/server/helpers/template.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/email-templates/test.html" afterPath="$PROJECT_DIR$/core/server/email-templates/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/email-templates/raw/test.html" afterPath="$PROJECT_DIR$/core/server/email-templates/raw/test.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/themes.js" afterPath="$PROJECT_DIR$/core/server/api/themes.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/title.js" afterPath="$PROJECT_DIR$/core/server/helpers/title.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/unauthorized-error.js" afterPath="$PROJECT_DIR$/core/server/errors/unauthorized-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/unsupported-media-type-error.js" afterPath="$PROJECT_DIR$/core/server/errors/unsupported-media-type-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/update-check.js" afterPath="$PROJECT_DIR$/core/server/update-check.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/upload.js" afterPath="$PROJECT_DIR$/core/server/api/upload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/config/url.js" afterPath="$PROJECT_DIR$/core/server/config/url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/url.js" afterPath="$PROJECT_DIR$/core/server/helpers/url.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/views/user-error.hbs" afterPath="$PROJECT_DIR$/core/server/views/user-error.hbs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/models/user.js" afterPath="$PROJECT_DIR$/core/server/models/user.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/users.js" afterPath="$PROJECT_DIR$/core/server/api/users.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/api/utils.js" afterPath="$PROJECT_DIR$/core/server/api/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/data/import/utils.js" afterPath="$PROJECT_DIR$/core/server/data/import/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/helpers/utils.js" afterPath="$PROJECT_DIR$/core/server/helpers/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/errors/validation-error.js" afterPath="$PROJECT_DIR$/core/server/errors/validation-error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/email-templates/welcome.html" afterPath="$PROJECT_DIR$/core/server/email-templates/welcome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/email-templates/raw/welcome.html" afterPath="$PROJECT_DIR$/core/server/email-templates/raw/welcome.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/core/server/xmlrpc.js" afterPath="$PROJECT_DIR$/core/server/xmlrpc.js" />
+      <change type="MOVED" beforePath="D:\OneDrive\Works\VijayaMalla\MyTakeOnQuotes\Server.js" afterPath="$PROJECT_DIR$/server.js" />
+    </list>
+    <ignored path="MyTakeOnQuotes.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="MyTakeOnQuotes" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="Gruntfile.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5423729" vertical-offset="4709" max-vertical-offset="18156">
+              <caret line="315" column="46" selection-start-line="315" selection-start-column="46" selection-end-line="315" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/config.js" />
+        <option value="$PROJECT_DIR$/server.js" />
+        <option value="$PROJECT_DIR$/Gruntfile.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGruntFileManager">
+    <initial>false</initial>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1160" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTakeOnQuotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTakeOnQuotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MyTakeOnQuotes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="name" value="Dart" />
+      <option name="saveOutputToFile" value="false" />
+      <option name="showConsoleOnStdErr" value="false" />
+      <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="047c7239-bd4f-4074-9c44-323f772dafbd" name="Default" comment="" />
+      <created>1416514614790</created>
+      <updated>1416514614790</updated>
+    </task>
+    <task id="LOCAL-00001" summary="From Webstrom">
+      <created>1416515421806</created>
+      <updated>1416515421806</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1160" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2496017" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32944608" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="From Webstrom" />
+    <option name="LAST_COMMIT_MESSAGE" value="From Webstrom" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.02556391" vertical-offset="0" max-vertical-offset="665">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7669173" vertical-offset="0" max-vertical-offset="2397">
+          <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#43#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7413534" vertical-offset="0" max-vertical-offset="2380">
+          <caret line="29" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="134" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5423729" vertical-offset="4709" max-vertical-offset="18156">
+          <caret line="315" column="46" selection-start-line="315" selection-start-column="46" selection-end-line="315" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

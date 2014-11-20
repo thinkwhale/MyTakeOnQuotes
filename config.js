@@ -1,3 +1,6 @@
+/**
+ * Created by vmalla on 11/20/2014.
+ */
 // # Ghost Configuration
 // Setup your Ghost install for various environments
 // Documentation can be found at http://support.ghost.org/config/
@@ -10,17 +13,8 @@ config = {
     // When running Ghost in the wild, use the production environment
     // Configure your URL and mail settings here
     production: {
-        url: 'http://mytakeonquotes',
-        mail: {
-            transport: 'SMTP',
-            options: {
-                service: 'Gmail',
-                auth: {
-                    user: 'Vijaya Malla <mvsaradhi@gmail.com>',
-                    pass: 'NgpvanOberon1!'
-                }
-            }
-        },
+        url: 'http://mytakeonquotes.com',
+        mail: {},
         database: {
             client: 'sqlite3',
             connection: {
@@ -33,7 +27,7 @@ config = {
             // Host to be passed to node's `net.Server#listen()`
             host: '127.0.0.1',
             // Port to be passed to node's `net.Server#listen()`, for iisnode set this to `process.env.PORT`
-            port: process.env.PORT
+            port: 'process.env.PORT'
         }
     },
 
