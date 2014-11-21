@@ -40,16 +40,16 @@ config = {
         // Example mail config
         // Visit http://support.ghost.org/mail for instructions
         // ```
-        //  mail: {
-        //      transport: 'SMTP',
-        //      options: {
-        //          service: 'Mailgun',
-        //          auth: {
-        //              user: '', // mailgun username
-        //              pass: ''  // mailgun password
-        //          }
-        //      }
-        //  },
+          mail: {
+              transport: 'SMTP',
+              options: {
+                  service: 'Gmail',
+                  auth: {
+                      user: '',
+                      pass: ''
+                  }
+              }
+          },
         // ```
 
         database: {
